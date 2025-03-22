@@ -1,1 +1,1 @@
-# Stream_x_project
+# This repository includes notes of courses available in LinkedIn.
