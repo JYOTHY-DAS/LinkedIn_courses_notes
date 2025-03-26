@@ -1,1 +1,1 @@
-# This repository includes notes of courses available in LinkedIn.
+# This repository contains pdf notes of courses available in LinkedIn.
