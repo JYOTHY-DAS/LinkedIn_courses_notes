@@ -33,6 +33,6 @@ Currently, this is a personal repository, but if you find the notes useful and w
 
 ## 📬 Contact
 If you have any questions, suggestions, or feedback, feel free to connect with me.
-gmail: jyothydas11@gmail.com
+G-mail: jyothydas11@gmail.com
 
 ⚡ *Stay curious and keep learning!* 🚀
